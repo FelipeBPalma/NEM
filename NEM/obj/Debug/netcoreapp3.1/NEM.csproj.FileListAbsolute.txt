@@ -1,3 +1,10 @@
+C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\NEM.AssemblyInfoInputs.cache
+C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\NEM.AssemblyInfo.cs
+C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\NEM.csproj.CoreCompileInputs.cache
+C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\NEM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\NEM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\NEM.RazorAssemblyInfo.cache
+C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\NEM.RazorAssemblyInfo.cs
 C:\Users\felipebp\source\repos\NEM\NEM\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\felipebp\source\repos\NEM\NEM\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\felipebp\source\repos\NEM\NEM\bin\Debug\netcoreapp3.1\NEM.StaticWebAssets.xml
@@ -133,13 +140,6 @@ C:\Users\felipebp\source\repos\NEM\NEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib
 C:\Users\felipebp\source\repos\NEM\NEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\felipebp\source\repos\NEM\NEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\NEM.csprojAssemblyReference.cache
-C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\NEM.AssemblyInfoInputs.cache
-C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\NEM.AssemblyInfo.cs
-C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\NEM.csproj.CoreCompileInputs.cache
-C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\NEM.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\NEM.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\NEM.RazorAssemblyInfo.cache
-C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\NEM.RazorAssemblyInfo.cs
 C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\staticwebassets\NEM.StaticWebAssets.Manifest.cache
 C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\staticwebassets\NEM.StaticWebAssets.xml
 C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\scopedcss\bundle\NEM.styles.css
@@ -153,6 +153,11 @@ C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\Razor\Views\Share
 C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
 C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Create.cshtml.g.cs
+C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Delete.cshtml.g.cs
+C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Details.cshtml.g.cs
+C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Edit.cshtml.g.cs
+C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Index.cshtml.g.cs
 C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\NEM.RazorTargetAssemblyInfo.cache
@@ -162,8 +167,3 @@ C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\NEM.csproj.CopyCo
 C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\NEM.dll
 C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\NEM.pdb
 C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\NEM.genruntimeconfig.cache
-C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Create.cshtml.g.cs
-C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Delete.cshtml.g.cs
-C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Details.cshtml.g.cs
-C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Edit.cshtml.g.cs
-C:\Users\felipebp\source\repos\NEM\NEM\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Index.cshtml.g.cs
